@@ -30,3 +30,9 @@ server side rendering
 https://angular.io/guide/universal
 https://ferugi.com/blog/nodejs-on-godaddy-shared-cpanel/
 https://medium.com/js-imaginea/angular-server-side-rendering-by-using-angular-cli-5590a2efa815
+
+https://medium.com/codingthesmartway-com-blog/angular-seo-making-angular-6-single-page-web-apps-search-engine-friendly-c8ec4ff2f549
+
+
+https://malcoded.com/posts/angular-fundamentals-universal-server-side-rendering
+https://malcoded.com/posts/angular-fundamentals-universal-server-side-rendering
